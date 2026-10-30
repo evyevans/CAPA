@@ -1,0 +1,18 @@
+{
+  "checks": [
+    "Linked clients share a real workspace",
+    "Notifications are the workspace default",
+    "Real Hermes tool discovery responds",
+    "Retry from a second client retains one task",
+    "Hermes confirms an actual run identity",
+    "Real Hermes run completes",
+    "Expected result is recovered on the second client",
+    "Completion remains available as a delivery event",
+    "Both clients recover the same completed result"
+  ],
+  "passed": true,
+  "discovered_toolsets": 27,
+  "task_id": "9f27b1ef-28bb-44e0-8aec-af2191190caf",
+  "status": "completed",
+  "run_id": "run_d8b55a120d894703be35597b5e0edd32"
+}

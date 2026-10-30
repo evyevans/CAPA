@@ -1,5 +1,10 @@
 # Publishing CAPA
 
+Current repository: https://github.com/evyevans/CAPA (public, published 2026-10-30).
+Private vulnerability reporting, secret scanning and push protection are enabled.
+The commands below describe recreating publication; do not rerun repo creation
+against the existing repository.
+
 The prepared source is free under MIT, experimental, and centered on the Hermes
 companion. Preserve assets/capa-branding.jpeg and the implementation/demo table.
 No production or App Store readiness claim is made.
@@ -19,7 +24,7 @@ gh repo create evyevans/CAPA --public --source=. --remote=origin --push \
 ```
 
 Run from the CAPA root. This command publishes source and creates a public repo;
-it is documented here and has not been executed. If the name exists, inspect it
+the initial publication has already been performed. If the name exists, inspect it
 before choosing a replacement or adding a remote. Do not overwrite another repo.
 
 ## GitHub settings before announcement

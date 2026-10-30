@@ -31,17 +31,20 @@ for a fresh resolution of the declared Python runtime/test requirements, not
 a certification of every older version permitted by their ranges. Advisory data
 changes over time; rerun after updates.
 
+## Publication status
+
+Published at https://github.com/evyevans/CAPA on 2026-10-30. GitHub confirms
+public visibility, MIT license detection, private vulnerability reporting enabled,
+and secret scanning with push protection enabled. The recovered source starts
+with fresh local history; the deleted repository’s old history was not restored.
+
 ## Remaining external steps
 
 - Confirm rights to the original project artwork before public publication; its
   retention was explicitly requested by the project owner. Third-party marks and
   dependencies retain their terms; MIT does not relicense them.
-- Create or restore the intended GitHub repository. If restoring, review existing
-  history for secrets and integrate without blindly overwriting it.
-- Enable and verify GitHub private vulnerability reporting and available secret
-  scanning/push protection before announcement; see SECURITY.md and PUBLISHING.md.
 - Signing/notarization and physical iPhone/live Hermes acceptance precede any
   supported binary release. No App Store or production-readiness claim is made.
 
-This preparation creates local source history only; it does not create, restore,
-push or expose a GitHub repository. No live Hermes configuration or tasks changed.
+Source publication is complete. No supported binary release was made, and no
+live Hermes configuration or tasks changed.
